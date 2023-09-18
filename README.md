@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanielD2004
-- 👀 I’m interested in artifical intelligence and web development
-- 🌱 I’m currently learning a variety of topics in my first year of CS
+- 👀 I’m interested in artificial intelligence and web development
+- 🌱 I’m currently learning a variety of topics in my second year of CS
 - 📫 How to reach me: email me at daniel@gdplace.com
 
 <!---
