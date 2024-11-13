@@ -1,8 +1,7 @@
 - 👋 Hello! I’m @DanielD2004
 - I’m interested in artificial intelligence and web development
-- I’m currently learning a variety of topics in my second year of CS
+- I’m currently learning a variety of topics in my third year of CS
 - How to reach me: email me at daniel@gdplace.com
-- I'm currently working on a Minesweeper clone, using VueJS
 
 <!---
 DanielD2004/DanielD2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
